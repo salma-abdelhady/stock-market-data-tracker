@@ -14,4 +14,3 @@ Visualizes stock price trends alongside moving averages for better insights.
 - Calculate essential metrics using Pandas & NumPy
 - Visualize trends using Matplotlib
 - Input validation for symbols and dates (YYYY-MM-DD)
-- Simple command-line interface (CLI)
